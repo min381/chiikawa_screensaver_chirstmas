@@ -1,6 +1,6 @@
 Windows에서 실행하는 방법
 1. 위 ZIP 파일을 Windows PC에 압축 해제해.
-2. .NET 8 SDK를 설치해.
+2. .NET 8 SDK를 설치해. (https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.427-macos-arm64-installer)
 3. 프로젝트 폴더에서 PowerShell을 열고 다음 명령을 실행해.
 dotnet publish -c Release -r win-x64 --self-contained true
 
